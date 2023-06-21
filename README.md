@@ -1,5 +1,5 @@
 # CodeHelp-DSA-Busted-Series
-Hello Jee,
+Hello,
 
 This repo is for the students for easy access to all the programs taught under Codehelp's DSA Busted Series.
 
@@ -10,7 +10,7 @@ This repo is for the students for easy access to all the programs taught under C
 Youtube Channel: CodeHelp - by Babbar
 
 
-Your Instructor: Love Babbar
+Instructor: Love Babbar
 
 
 
